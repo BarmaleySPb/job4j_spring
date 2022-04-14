@@ -1,5 +1,8 @@
 package di;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class StartUI {
 
     private final Store store;
